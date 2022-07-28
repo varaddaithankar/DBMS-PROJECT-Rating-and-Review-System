@@ -1,0 +1,32 @@
+.categoriesInSearch{
+    font-weight:bold;
+    margin-left:1em;
+}
+
+.authorSearchInSearch{
+    font-weight: bold;
+}
+.bookSearchInSearch{
+    font-weight: bold;
+}
+.filterInSearch{
+    font-weight:bold;
+    margin-left: 1em
+}
+.searchButtonInSearch{
+    margin-top: 1em;
+    margin-left: 4em;
+    margin-bottom: 1em;
+}
+.filterRadioButtonInSearch{
+    display: inline-block;
+    margin-left: 1em;
+}
+.entireTableInSearch{
+    background-color: #c7e8fd;
+    /*margin-top:1.3em;
+    */
+}
+.textBoxOfBookSearch{
+    margin:0px;
+}
